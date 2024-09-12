@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kh.op.OperatorEX&apos; to &apos;OperatorEx&apos;&#x0D;&#x0A;- Original project: &apos;02_Operator&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.op.OperatorEX&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.op.OperatorEx&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OperatorEX&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.op{OperatorEX.java[OperatorEX" matchStrategy="1" name="OperatorEx" qualified="false" references="true" similarDeclarations="false" stamp="1712634523960" textual="false" version="1.0"/>
+</session>

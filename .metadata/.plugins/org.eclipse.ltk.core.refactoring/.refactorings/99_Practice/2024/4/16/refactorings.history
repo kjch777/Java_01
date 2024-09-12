@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;om.kh.example.practice2.model.vo&apos; to &apos;com.kh.example.practice2.model.vo&apos;&#x0D;&#x0A;- Original project: &apos;99_Practice&apos;&#x0D;&#x0A;- Original element: &apos;99_Practice/src/om.kh.example.practice2.model.vo&apos;&#x0D;&#x0A;- Renamed element: &apos;99_Practice/src/com.kh.example.practice2.model.vo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;om.kh.example.practice2.model.vo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;om.kh.example.practice2.model.vo" name="com.kh.example.practice2.model.vo" qualified="false" references="true" stamp="1713398649823" textual="false" version="1.0"/>
+</session>
